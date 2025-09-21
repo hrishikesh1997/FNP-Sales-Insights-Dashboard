@@ -1,2 +1,3 @@
 # FNP-Sales-Insights-Dashboard
-<img width="1909" height="884" alt="Screenshot 2025-09-22 023410" src="https://github.com/user-attachments/assets/8d1198c2-dfd4-44b4-9275-5de5920f4170" />
+
+![bandicam 2025-09-22 03-05-01-742 (online-video-cutter com)](https://github.com/user-attachments/assets/ba2cc075-1009-438f-9a62-ff50191e41f1)
